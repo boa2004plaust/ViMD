@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hello/code/Vim-main/vim/mlruns/0/5822fe083b8040d09f2f5f5d7d5243d7/artifacts
+end_time: 1717460107207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5822fe083b8040d09f2f5f5d7d5243d7
+run_name: vimtiny_SRGAN_AIRn_HiddenStates24Mse1.0_KD1.0_finetune_input56_224_lr5e-7_mimlr1e-5_wlr1e-5
+run_uuid: 5822fe083b8040d09f2f5f5d7d5243d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717460106965
+status: 3
+tags: []
+user_id: hello

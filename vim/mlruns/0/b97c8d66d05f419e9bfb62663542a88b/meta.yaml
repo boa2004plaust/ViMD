@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hello/code/Vim-main/vim/mlruns/0/b97c8d66d05f419e9bfb62663542a88b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b97c8d66d05f419e9bfb62663542a88b
+run_name: vimtiny_SRGAN_CUB_FDMSE_nonekd_finetune_input56_224_lr5e-7_mimlr1e-5_wlr1e-5
+run_uuid: b97c8d66d05f419e9bfb62663542a88b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716279190756
+status: 1
+tags: []
+user_id: hello

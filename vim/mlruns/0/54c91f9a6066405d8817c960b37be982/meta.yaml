@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hello/code/Vim-main/vim/mlruns/0/54c91f9a6066405d8817c960b37be982/artifacts
+end_time: 1715680926263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54c91f9a6066405d8817c960b37be982
+run_name: vimtiny_SRGANnew_CUB_input56_224_lr5e-6_mimlr1e-5_wlr1e-5
+run_uuid: 54c91f9a6066405d8817c960b37be982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715680924320
+status: 3
+tags: []
+user_id: hello

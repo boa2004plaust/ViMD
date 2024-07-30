@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hello/code/Vim-main/vim/mlruns/0/57cec356059249eab76eb4e1a2991966/artifacts
+end_time: 1718855294735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57cec356059249eab76eb4e1a2991966
+run_name: vimtiny_SRGAN_DOG_HiddenStates24Mse30.0_KD1.0
+run_uuid: 57cec356059249eab76eb4e1a2991966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718756498224
+status: 3
+tags: []
+user_id: hello
